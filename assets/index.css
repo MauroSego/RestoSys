@@ -1,0 +1,12 @@
+.mesa{
+	width: 150px;
+	height: 70px;
+	border: 1px solid black;
+	
+}
+.libre{
+	background-color: rgba(140, 224, 125, 0.75);
+}
+.ocupada{
+	background-color: rgba(245, 75, 75, 0.75);
+}
